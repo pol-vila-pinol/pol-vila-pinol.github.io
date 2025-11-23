@@ -1,17 +1,13 @@
 # Pol Vilà
 
-<img src="photo.jpeg" alt="Pol Vilà" style="width:160px; float:right; margin:0 0 1em 1em;">
+<img src="files/photo.jpeg" alt="Pol Vilà" style="width:160px; float:right; margin:0 0 1em 1em;">
 
-Welcome! I am a student in Law and Economics based in Spain.  
-My main interests are behavioural economics and decision-making.
+Interests 
+[CV](files/cv.pdf)
 
-I am especially interested in how people make choices in practice and how this can inform policy and regulation.
+EMAIL pol[dot]vila[at]upf[dot]edu
 
-[CV](cv.pdf)
-
-EMAIL [at] EXAMPLE [dot] COM
-
-[GitHub](https://github.com/ELTEUUSERNAME)
+#[GitHub](https://github.com/ELTEUUSERNAME)
 
 ---
 
@@ -21,7 +17,7 @@ EMAIL [at] EXAMPLE [dot] COM
 
 Working paper, 2025.
 
-[Draft](paper1.pdf)
+[Draft](files/paper1.pdf)
 
 Write a short abstract here (5–6 lines).  
 Explain the question, the data or setting, and the main result in simple terms.
