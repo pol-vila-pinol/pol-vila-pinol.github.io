@@ -7,8 +7,6 @@ Interests
 
 EMAIL pol[dot]vila[at]upf[dot]edu
 
-#[GitHub](https://github.com/ELTEUUSERNAME)
-
 ---
 
 # Working papers
