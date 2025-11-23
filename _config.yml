@@ -12,7 +12,7 @@ repository               : "pol-vila-pinol/pol-vila-pinol.github.io"
 # Site Author (sidebar profile)
 author:
   # Biographic information
-  avatar           : "files/photo.jpeg"
+  avatar           : "photo.jpeg"
   name             : "Pol Vilà Piñol"
   pronouns         :
   bio              : "Fifth year Economics and Law student at UPF"
