@@ -1,6 +1,6 @@
 # Pol Vilà
 
-<img src="photo.jpg" alt="Pol Vilà" style="width:160px; float:right; margin:0 0 1em 1em;">
+<img src="photo.jpeg" alt="Pol Vilà" style="width:160px; float:right; margin:0 0 1em 1em;">
 
 Welcome! I am a student in Law and Economics based in Spain.  
 My main interests are behavioural economics and decision-making.
