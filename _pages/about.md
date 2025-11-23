@@ -1,12 +1,4 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
----
 layout: single
 title: "Pol Vilà Piñol"
 author_profile: true
@@ -22,7 +14,7 @@ EMAIL pol[dot]vila[at]upf[dot]edu
 
 ## Working papers
 
-### TITLE OF YOUR FIRST PAPER
+### Títol del teu primer treball
 
 Working paper, 2025.
 
@@ -34,6 +26,6 @@ Escriu aquí un petit resum (5–6 línies): la pregunta que estudies, les dades
 
 ## Work in progress
 
-### PROJECT TITLE
+### Projecte en curs
 
 Una o dues frases curtes sobre un projecte en marxa o una idea que estiguis desenvolupant.
