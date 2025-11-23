@@ -4,6 +4,7 @@ title: "Pol Vilà Piñol"
 author_profile: true
 ---
 Welcome! I am a fifth year student of Law and Economics at UPF. 
+
 [Curriculum vitae](files/cv.pdf)
 
 pol.vila[at]upf.edu
