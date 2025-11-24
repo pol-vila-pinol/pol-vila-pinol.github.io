@@ -13,8 +13,8 @@ pol.vila[at]upf.edu
 
 ## Research
 
-### Comparative Analysis of Nominal Rigidities in Online and Multichannel Markets
+### The Evolution of Nominal Rigidities in Online and Multichannel Markets
 
 Bachelor thesis, 2025.
 
-[Draft](files/paper1.pdf)
+[Draft](files/tfg1124eng.pdf)
